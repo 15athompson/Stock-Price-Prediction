@@ -3,7 +3,7 @@
 Role: Data Visualization Analysis
 
 Description:
-The provided Python code is a script for data visualization and analysis of stock price data using the Pandas and Matplotlib libraries. The code reads stock price data from a CSV file, processes it, and creates a time series plot of high and low stock prices. Here is a summary of the key components and functionalities of the code:
+This is a script for data visualization and analysis of stock price data using the Pandas and Matplotlib libraries. The code reads stock price data from a CSV file, processes it, and creates a time series plot of high and low stock prices. Here is a summary of the key components and functionalities of the code:
 
 Imports: The code imports the pandas library for data manipulation and the matplotlib library for data visualization.
 
